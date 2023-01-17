@@ -1,132 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="192.000000pt" height="192.000000pt" viewBox="0 0 192.000000 192.000000"
+ preserveAspectRatio="xMidYMid meet">
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/erb/Programming/activitywatch/aw-qt/img/logo.png"
-   inkscape:export-xdpi="219.42857"
-   inkscape:export-ydpi="219.42857">
-  <defs
-     id="defs4">
-    <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Lstart"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path4392"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         transform="scale(0.8) translate(12.5,0)" />
-    </marker>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.8849562"
-     inkscape:cx="392.68905"
-     inkscape:cy="585.86747"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:snap-page="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4337" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <ellipse
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:10.045784;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3336"
-       cx="400"
-       cy="452.36221"
-       rx="99.977112"
-       ry="99.977104" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4343"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823532;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       transform="matrix(5.7060814,0,0,5.7060814,-1556.2405,-2292.424)"><flowRegion
-         id="flowRegion4345"><rect
-           id="rect4347"
-           width="140"
-           height="50"
-           x="330"
-           y="462.36221"
-           style="fill:#000000;fill-opacity:0.58823532;" /></flowRegion><flowPara
-         id="flowPara4349"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';fill:#000000;fill-opacity:0.58823532;">A</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';fill:#000000;fill-opacity:0.58823532;"
-         id="flowPara4384" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4343-1"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823532;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       transform="matrix(4.4828404,0,0,4.4828404,-1083.8281,-1646.3271)"><flowRegion
-         id="flowRegion4345-9"><rect
-           id="rect4347-0"
-           width="140"
-           height="50"
-           x="330"
-           y="462.36221"
-           style="fill:#000000;fill-opacity:0.58823532;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';fill:#000000;fill-opacity:0.58823532;"
-         id="flowPara4380">W</flowPara></flowRoot>    <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4335"
-       cx="400"
-       cy="452.36221"
-       r="9.9999905" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 400,452.3622 -59,54"
-       id="path4341"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 400,452.3622 33,-37"
-       id="path4386"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-  </g>
+<g transform="translate(0.000000,192.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M785 1836 c-192 -45 -341 -130 -472 -270 -157 -168 -234 -366 -235
+-601 -1 -298 144 -568 392 -734 301 -201 692 -200 990 2 67 46 176 154 226
+224 57 79 107 187 136 294 18 69 22 109 21 219 -1 162 -20 250 -88 386 -111
+227 -312 395 -555 465 -97 27 -325 36 -415 15z m300 -656 c-14 -145 -26 -265
+-28 -266 -1 -1 -45 -13 -97 -26 l-95 -24 -59 -192 c-33 -106 -61 -190 -63
+-189 -2 2 13 78 32 168 34 155 36 171 29 286 l-6 121 111 7 c61 4 111 9 111
+11 0 3 18 87 40 189 22 102 40 190 40 197 0 7 -25 -45 -55 -116 -46 -107 -55
+-139 -55 -187 0 -54 -2 -59 -22 -59 -39 0 -301 -20 -304 -23 -2 -2 10 -135 27
+-297 16 -162 28 -298 26 -304 -2 -6 -16 55 -31 134 -67 357 -137 718 -146 755
+-5 21 -7 41 -5 43 2 2 106 -17 230 -43 125 -26 228 -45 230 -43 1 1 22 35 45
+73 60 99 64 104 68 74 2 -14 -9 -144 -23 -289z m113 130 l57 -145 44 -3 44 -3
+-7 -57 c-4 -31 -8 -57 -9 -58 -1 -1 -30 -6 -65 -10 l-62 -7 6 69 c5 60 1 88
+-30 207 -44 166 -44 163 -39 157 2 -3 30 -70 61 -150z m25 81 c59 -71 71 -80
+116 -91 55 -13 56 -15 45 -82 -7 -38 -7 -38 -55 -38 l-49 0 0 43 c0 35 -10 59
+-58 132 -73 114 -74 115 -69 115 2 0 34 -35 70 -79z m86 -418 c-2 -86 -7 -94
+-84 -120 -38 -12 -75 -23 -82 -23 -18 0 -19 158 0 165 12 5 117 21 150 24 14
+1 17 -7 16 -46z m-211 -145 l-3 -61 -61 -21 c-60 -20 -64 -24 -160 -148 -55
+-69 -101 -124 -103 -123 -2 2 31 56 73 120 76 115 76 116 76 183 l0 68 83 21
+c45 11 86 21 90 22 4 1 7 -27 5 -61z"/>
+<path d="M497 119 c7 -7 15 -10 18 -7 3 3 -2 9 -12 12 -14 6 -15 5 -6 -5z"/>
+<path d="M557 89 c7 -7 15 -10 18 -7 3 3 -2 9 -12 12 -14 6 -15 5 -6 -5z"/>
+<path d="M918 3 c23 -2 61 -2 85 0 23 2 4 4 -43 4 -47 0 -66 -2 -42 -4z"/>
+</g>
 </svg>
